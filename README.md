@@ -1,1 +1,1 @@
-# DSA-JAVA-Bootcamp
+# DSA-Java-Bootcamp
